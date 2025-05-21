@@ -25,4 +25,4 @@ Open task3.py and run the script execute3() function will take care of everythin
 Open task4.py and run the script execute4() function will take care of everything.
 ![](./Output/Figure_4.png)
 ## coverage
-![](./Screenshot from 2025-05-21 18-28-12.png)
+![](./Output/Figure_5.png)
